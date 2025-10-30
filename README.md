@@ -168,9 +168,13 @@ When using the deployed Function App in Azure the `mcp.json` from the client loo
      ```
    This will invoke the `save_note` tool with your selected text as content.
 
-   ![Saving a note](https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/save_note_mcp.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/save_note_mcp.jpg" alt="Saving a note"><br>
+</p>
 
-   ![Saving a note output](https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/save_note_output_mcp.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/save_note_output_mcp.jpg" alt="Saving a note output"><br>
+</p>
 
 2. **Retrieving a note**
    - In GitHub Copilot Chat (Agent mode), type:
@@ -179,7 +183,9 @@ When using the deployed Function App in Azure the `mcp.json` from the client loo
      ```
    This will use the `get_note` tool to fetch and display the note.
 
-   ![Get note](https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/get_note_output_mcp.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/get_note_output_mcp.jpg" alt="Get note"><br>
+</p>
 
 3. **Listing all notes**
    - In GitHub Copilot Chat (Agent mode), type:
@@ -195,7 +201,9 @@ When using the deployed Function App in Azure the `mcp.json` from the client loo
      ```
    This will use the `search_notes` tool to find relevant notes.
 
-   ![Search notes](https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/search_notes_output_mcp.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/search_notes_output_mcp.jpg" alt="Search notes"><br>
+</p>
 
 5. **Delete a note**
    - In GitHub Copilot Chat (Agent mode), type:
@@ -204,7 +212,9 @@ When using the deployed Function App in Azure the `mcp.json` from the client loo
      ```
    This will use the `delete_note` tool to delete the note.
 
-   ![Delete note](https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/delete_note_output_mcp.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/delete_note_mcp.jpg" alt="Delete note"><br>
+</p>
 
 6. **Listing all notes (verify)**
    - In GitHub Copilot Chat (Agent mode), type:
@@ -213,7 +223,9 @@ When using the deployed Function App in Azure the `mcp.json` from the client loo
      ```
    This will use the `list_notes` tool to show all your saved notes. Verify that after delete nothing is saved anymore.
 
-   ![List notes](https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/list_notes_mcp.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/list_notes_mcp.jpg" alt="List notes"><br>
+</p>
 
 ---
 
