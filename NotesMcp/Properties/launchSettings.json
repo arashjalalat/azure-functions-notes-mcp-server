@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NotesTool": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7028",
+      "launchBrowser": false
+    }
+  }
+}

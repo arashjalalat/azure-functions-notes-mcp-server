@@ -1,0 +1,11 @@
+name: notes-mcp-server
+metadata:
+  template: notes-mcp-server
+services:
+  api:
+    project: ./NotesMcp
+    language: dotnet
+    host: function
+infra:
+  provider: bicep
+  path: ./infra
