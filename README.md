@@ -2,6 +2,10 @@
 
 An Azure Functions-based MCP (Model Context Protocol) server implementation for managing notes and related functionality. This project demonstrates how to build a MCP server using Azure Functions, following best practices in a cloud native way.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arashjalalat/azure-functions-notes-mcp-server/main/images/design.jpg" alt="Design"><br>
+</p>
+
 ---
 
 ## Features
